@@ -1,5 +1,5 @@
 # Cement-strength-regression
-__Predict the strength of cement based on how it is mixed using a nearal network__
+__Predict the strength of cement based on how it is mixed using a deep nearal network__
 
 Data sample:
 
